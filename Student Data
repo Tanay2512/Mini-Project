@@ -18,6 +18,7 @@ int main() {
         scanf("%s", s[i].firstName);
         printf("Enter marks: ");
         scanf("%f", &s[i].marks);
+        printf("-------------------------------");
     }
     printf("Displaying Information:\n\n");
 
